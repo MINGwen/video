@@ -78,9 +78,12 @@
             @endif
 
             <div class="content">
-                <div>
-                    <video src="http://www.bilibili.com/f68aab4e-7815-4753-9599-462167740b4d" width="300px" height="400px" controls="controls"></video>
+                <div style="background-color:#000000">
+
+                    {{--<video src="http://www.w3school.com.cn/i/movie.ogg" width="700px" height="400px" controls="controls"></video>--}}
+                    <video src="pr.mp4" width="700px" height="400px" controls="controls"></video>
                 </div>
+
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
                 </div>
