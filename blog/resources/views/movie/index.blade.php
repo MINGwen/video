@@ -81,7 +81,7 @@
                 <div style="background-color:#000000">
 
                     {{--<video src="http://www.w3school.com.cn/i/movie.ogg" width="700px" height="400px" controls="controls"></video>--}}
-                    <video src="pr.mp4" width="700px" height="400px" controls="controls"></video>
+                    <video src="{{asset('storage/pr.mp4')}}" width="700px" height="400px" controls="controls"></video>
                 </div>
 
                 <div class="links">
